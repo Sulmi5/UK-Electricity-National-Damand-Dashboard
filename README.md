@@ -59,9 +59,9 @@ The conditional formatting is added to the colour of the text.
 
  # Report Snapshot (Power BI DESKTOP)
 
-![snap1](https://github.com/user-attachments/assets/b7c856c9-bcc9-40b0-b1a1-04d822ea7347)
+![snap1](https://github.com/user-attachments/assets/c0cb6904-8844-4994-a0bf-e026a1f5dfad)
 
-![snap2](https://github.com/user-attachments/assets/4f5cbd3f-eb6c-4d3f-ac1f-6aab11bb44c5)
+![snap2](https://github.com/user-attachments/assets/c7d1357e-1df3-4eb1-9d2d-57549b8d607a)
 
 # Insights
 
